@@ -1,6 +1,6 @@
 {
-  "name": "stenet-vue-plugin2",
-  "private": false,
+  "name": "stenet-vue-plugin",
+  "private": true,
   "version": "0.0.3",
   "scripts": {
     "dev": "vite",
